@@ -170,5 +170,6 @@ This code specifically accesses the dataset in a specific directory and writes a
 Below I have included an output of the data generated in the terminal after running the PyPoll_Challenge code. 
 
 <p align="center">
+    
 ![Challenge 3 Ouput](https://user-images.githubusercontent.com/115036844/198426563-91d8f9f3-a181-4ef9-a3b1-cc7c390a9761.png)
 </p>
