@@ -16,24 +16,24 @@ The purpose of this project is to analyze the vote count for Congressional Prece
 ## Results
 ### Per Candidate Basis
 - The analysis of the election shows that:
-  - There were **369,711** votes cast in the election.
-- The candidates were:
+  - There were 369,711 total votes cast.
+- The list of candidates were as follows:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
 - The candidate results were:
-    - Charles Casper Stockham received **23.0%** of the vote and **85,213** of votes.
-    - Diana DeGette received **73.8%** of the vote and **272,892** of votes.
-    - Raymon Anthony Doane received **3.1%** of the vote and **11,606** of votes.
+    - Charles Casper Stockham: **23.0%** of the vote and **85,213** of votes.
+    - Diana DeGette: **73.8%** of the vote and **272,892** of votes.
+    - Raymon Anthony Doane: **3.1%** of the vote and **11,606** of votes.
 - The winner of the election was:
-    - **Diana DeGette**, who received **73.8%** of the vote and **272,892** of votes.
+    - Diana DeGette:
+        -**73.8%** of the vote and **272,892** of votes.
 
 ### Per County Basis
 - The analysis of the election shows that:
-- The counties results were:
-    - Jefferson with a **10.5%** vote of the total count and **38,855** voter turnout.
-    - Denver with an **82.8%** vote of the total count and **306,055** voter turnout.
-    - Arapahoe with a **6.7%** vote of the total count and **24,801** voter turnout.
+    - Jefferson had **10.5%** of the vote and **38,855** voter turnout.
+    - Denver had **82.8%** of the vote and **306,055** voter turnout.
+    - Arapahoe had **6.7%** of the vote and **24,801** voter turnout.
 - The county with the largest voter turnout was:
     - **Denver** with an **82.8%** vote of the total count and **306,055** voter turnout.
     
@@ -170,6 +170,5 @@ This code specifically accesses the dataset in a specific directory and writes a
 Below I have included an output of the data generated in the terminal after running the PyPoll_Challenge code. 
 
 <p align="center">
-    
-![Challenge 3 Ouput](https://user-images.githubusercontent.com/115036844/198426563-91d8f9f3-a181-4ef9-a3b1-cc7c390a9761.png)
+<img src=https://github.com/liamkillingstad/election-analysis-module-3/blob/main/Supplemental/Challenge%203%20Ouput.png>
 </p>
